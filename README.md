@@ -30,6 +30,7 @@ The original dataset, bike_buyers, contains the following columns:
 - Purchased Bike: Whether a bike was purchased (Yes/No).
   
 Data Cleaning Steps:
+
 1. Duplicates Removal: Removed duplicate entries.
 Standardization:
 2. Replaced abbreviations (e.g., 'M' to 'Married' in Marital Status).
@@ -54,7 +55,8 @@ Pivot Tables and Visualizations:
 - Visualization: Line Chart with Markers for clear differentiation between age groups.
 
   
-Dashboard Design
+Dashboard Design: 
+
 The final dashboard integrates the key visualizations and allows filtering through slicers. It includes:
 
 1. Charts:
@@ -71,12 +73,14 @@ The final dashboard integrates the key visualizations and allows filtering throu
 - Dashboard title "Bike Sales Dashboard" with merged cells and custom font styling.
 - Color-coded charts and slicers for clarity and improved readability.
 
-Insights
+Insights:
+
 - Income & Purchase: Higher income is associated with a higher likelihood of bike purchase.
 - Commute Distance: Buyers with medium commute distances (2-5 miles) tend to purchase more bikes.
 - Age Group Trend: Middle-aged individuals (31-54 years) are the largest group of bike purchasers.
 
 Conclusion: 
+
 This project demonstrates how Excel can be used for data analysis and dashboard creation, showcasing skills in data cleaning, pivot tables, and visualization. The interactive dashboard serves as a powerful tool to explore bike purchase trends by various demographics, providing meaningful insights into the data.
 
 FINAL DASHBOARD: 

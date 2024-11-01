@@ -42,6 +42,7 @@ Adolescent: Age <31
 4. Validation: Checked all columns for consistency and ensured no spelling errors or misclassified data.
    
 Pivot Tables and Visualizations: 
+
 1. Average Income by Bike Purchase Status and Gender
 - Created a pivot table to compare the average income of bike buyers and non-buyers by gender.
 - Visualization: Clustered Column Chart showing average income segmented by gender and purchase status.
@@ -51,6 +52,8 @@ Pivot Tables and Visualizations:
 3. Bike Purchase by Age Brackets
 - Created a pivot table to analyze bike purchases across different age brackets.
 - Visualization: Line Chart with Markers for clear differentiation between age groups.
+
+  
 Dashboard Design
 The final dashboard integrates the key visualizations and allows filtering through slicers. It includes:
 
